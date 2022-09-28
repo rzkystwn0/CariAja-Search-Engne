@@ -41,7 +41,7 @@ function keyword(props) {
                 <input
                   type="text"
                   placeholder="Cari"
-                  className="bg-transparent sm:h-4 h-4 outline-0 sm:text-md text-sm"
+                  className="bg-transparent sm:h-4 h-4 outline-0 sm:text-md text-sm text-black"
                   onChange={(e) => {
                     setSearch(e.target.value);
                   }}
@@ -52,7 +52,7 @@ function keyword(props) {
             </form>
           </div>
         </div>
-        <p className="poppins sm:my-3 my-1">
+        <p className="poppins sm:my-3 my-1 text-black">
           Hasil pencarian dari <span className="text-[#00C2FF] italic">"{keyword}"</span>
         </p>
         {
