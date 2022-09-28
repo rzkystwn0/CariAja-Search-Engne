@@ -34,7 +34,7 @@ export default function Home() {
                 <input
                   type="text"
                   placeholder="Cari"
-                  className="bg-transparent h-6 outline-0 text-xl"
+                  className="bg-transparent h-6 outline-0 text-xl text-black"
                   onChange={(e) => {
                     setSearch(e.target.value);
                   }}
