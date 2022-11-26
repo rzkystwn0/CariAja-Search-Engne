@@ -50,7 +50,7 @@ export default function Home() {
             </form>
           </div>
           <p className="poopins mt-20 text-black/40 sm:text-base text-xs text-center w-5/12 sm:w-3/12 mx-auto">
-            Search Engine created by <a href="https://rzkystwn.netlify.app/" target="_blank" className="underline">Rizky Setiawan.</a>
+            Search Engine created by <a href="https://rzkystwn.netlify.app/" target="_blank" className="underline">Rizky Setiawan - XI PPLG</a>
           </p>
         </div>
       </div>
